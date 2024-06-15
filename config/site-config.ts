@@ -182,8 +182,8 @@ const GridItems: GridItemInterface[] = [
     layout: "2x2",
     type: "social",
     title: "Blog Website",
-    username: "",
-    buttonLink: "Coming Soon",
+    username: "https://randomscribblingsnet.wordpress.com/",
+    buttonLink: "Still in Dev Phase",
     color: "#1DA1F2",
     description:
       "I love to rant. Hence, I write blogs on various topics that I find interesting. Visit my blog to read my thoughts on various topics. Website is made using Wordpress.",
