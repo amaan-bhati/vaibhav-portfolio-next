@@ -39,8 +39,8 @@ const sfPRO = localFont({
 });
 
 export const metadata = {
-  title: "Amaan Bhati Contact Website",
-  description: "Straight forward version of Amaan Bhati's portfolio website built on top of NextJS in order to make it easy to contact and connect with him.",
+  title: "Vaibhav Tiwari Contact Website",
+  description: "Straight forward version of Vaibhav's portfolio website built on top of NextJS in order to make it easy to contact and connect with him.",
 };
 
 export default function RootLayout({
