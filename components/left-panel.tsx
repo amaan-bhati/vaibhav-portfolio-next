@@ -44,10 +44,10 @@ const LeftPanel = () => {
               {siteConfig.location}
             </a>
             <a
-              href={`https://amaanbhati.tech`}
+              href={`https://github.com/VaibhavTiw`}
               className="flex items-center w-full gap-2 px-4 py-2 text-sm font-medium border rounded-md border-neutral-200 dark:border-neutral-800 "
             >
-              Visit Portfolio
+              Visit Github
             </a>
           </div>
         </div>
