@@ -35,13 +35,13 @@ const GridItems: GridItemInterface[] = [
     type: "social",
     title: "Github",
     // icon: "github",
-    username: "@amaan-bhati",
+    username: "@VaibhavTiw",
     // buttonTitle: "Follow",
     
-    buttonLink: "https://github.com/amaan-bhati",
+    buttonLink: "https://github.com/VaibhavTiw",
     color: "#1DA1F2",
     description:
-      "Web Dev Lead at @MLSAKIIT || Enthusiastic tech geek || Aspiring Software Developer || reactjs/next || javascript || tailwind || typescript || threejs",
+      "Coordinator at IoT Lab, KIIT || Enthusiastic tech geek || Aspiring Software Developer || DevOps || Project Management",
   },
 
   {
@@ -49,10 +49,10 @@ const GridItems: GridItemInterface[] = [
     type: "social",
     title: "Portfolio Website",
     username: "amaanbhati.tech",
-    buttonLink: "https://amaanbhati.tech",
+    buttonLink: "Coming Soon",
     color: "#1DA1F2",
     description:
-      "Built using reactjs, standing tall and responsive since the last 2 years, you'll get to know more about me. Make sure you visit!",
+      "Still in development phase.",
   },
   {
     layout: "2x2",
@@ -60,21 +60,20 @@ const GridItems: GridItemInterface[] = [
     title: "Linkedin",
     username: "@amaan-bhati",
     description:
-      "CSE '25 || Web lead at MLSAKIIT || Web Dev intern at KIIT Digital || GSSOC'24 Mentor || Ex-Web developer and at TEDX and KIITFEST || Javascript || Reactjs || Tailwind CSS || TypeScript || Next.js || Three.js",
+      "CSE'25 || Coordinator at IoT Lab, KIIT ||",
     color: "#1DA1F2",
-    buttonLink: "https://www.linkedin.com/in/amaan-bhati",
+    buttonLink: "https://www.linkedin.com/in/vaibhav-tiw/",
   },
  
  
   
-
   {
     layout: "1x2",
     type: "social",
     title: "Instagram",
     username: "@amaanbhatiii",
     color: "#1DA1F2",
-    buttonLink: "https://instagram.com/amaanbhatiii",
+    buttonLink: "https://instagram.com/vaibhav_tiw",
     // description: "Keeps me connected with family and friends while we share memes and reels only to waste time in the name of relaxing ourselves.",
   },
   {
@@ -82,21 +81,21 @@ const GridItems: GridItemInterface[] = [
     type: "social",
     title: "Twitter",
     username: "@front_end_er",
-    buttonLink: "https://twitter.com/front_end_er",
+    buttonLink: "https://x.com/Vaibhav_Tiw",
     color: "#1DA1F2",
     // description:
       // "Tech twitter is what keeps me updated with modern tech stacks and also keeps me entertained with technical memes and discussions.",
   },
  
 
-  {
-    layout: "1x2",
-    type: "social",
-    title: "Youtube",
-    username: "@amaan-bhati",
-    buttonLink: "https://youtu.be/xvFZjo5PgG0?si=oroLylgt6dbhY8WQ",
-    color: "#1DA1F2",
-  },
+  // {
+  //   layout: "1x2",
+  //   type: "social",
+  //   title: "Youtube",
+  //   username: "@amaan-bhati",
+  //   buttonLink: "https://youtu.be/xvFZjo5PgG0?si=oroLylgt6dbhY8WQ",
+  //   color: "#1DA1F2",
+  // },
 
   {
     layout: "1x2",
@@ -116,87 +115,55 @@ const GridItems: GridItemInterface[] = [
     equipments: [
       {
         title: "HTML/CSS",
-        link: "github.com/amaan-bhati",
+        link: "https://github.com/VaibhavTiw",
       },
       {
         title: "Javascript",
-        link: "github.com/amaan-bhati",
+        link: "https://github.com/VaibhavTiw",
       },
       {
-        title: "Typescript",
-        link: "github.com/amaan-bhati",
+        title: "Spring Boot",
+        link: "https://github.com/VaibhavTiw",
       },
       {
-        title: "Reactjs",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "Nextjs",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "Threejs",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "Next Auth",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "NodeJS",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "ExpressJS",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "MongoDB",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "Firebase",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "TailwindCSS",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "Computer Vision",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "OpenCv",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "OpenAI",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "GenerativeAI",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "Supabase",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "PostgreSQL",
-        link: "github.com/amaan-bhati",
-      },
-      {
-        title: "SQL",
-        link: "github.com/amaan-bhati",
+        title: "ReactJS",
+        link: "https://github.com/VaibhavTiw",
       },
       {
         title: "Python",
-        link: "github.com/amaan-bhati",
+        link: "https://github.com/VaibhavTiw",
+      },
+      {
+        title: "Java",
+        link: "https://github.com/VaibhavTiw",
+      },
+      {
+        title: "AWS",
+        link: "https://github.com/VaibhavTiw",
+      },
+      {
+        title: "DevOps",
+        link: "https://github.com/VaibhavTiw",
+      },
+      {
+        title: "Data Structures",
+        link: "https://github.com/VaibhavTiw",
+      },
+      {
+        title: "Firebase",
+        link: "https://github.com/VaibhavTiw",
+      },
+      {
+        title: "OpenCv",
+        link: "https://github.com/VaibhavTiw",
+      },
+      {
+        title: "SQL",
+        link: "https://github.com/VaibhavTiw",
       },
       {
         title: "C++",
-        link: "github.com/amaan-bhati",
+        link: "https://github.com/VaibhavTiw",
       },
     ],
   },
@@ -206,10 +173,10 @@ const GridItems: GridItemInterface[] = [
     layout: "2x2",
     type: "social",
     title: "Check out my Projects",
-    buttonLink: "https://www.amaanbhati.tech/projectspage",
+    buttonLink: "https://github.com/VaibhavTiw",
     color: "#1DA1F2",
     description:
-      "Visit my portfolio website to view my projects accross multiple domains using various tech stacks. From basic to advanced, all at one place.",
+      "Visit my github to view my projects accross multiple domains using various tech stacks. From basic to advanced, all at one place.",
       
   },
 
@@ -217,11 +184,11 @@ const GridItems: GridItemInterface[] = [
     layout: "2x2",
     type: "social",
     title: "Blog Website",
-    username: "blog.amaanbhati.tech",
-    buttonLink: "https://blog.amaanbhati.tech",
+    username: "",
+    buttonLink: "Coming Soon",
     color: "#1DA1F2",
     description:
-      "Blog site built on top of nextjs where I post blogs based on my experiences, interests, best practices and productivity.",
+      "I love to rant. Hence, I write blogs on various topics that I find interesting. Visit my blog to read my thoughts on various topics. Website is made using Wordpress.",
   },
 
   
@@ -235,7 +202,7 @@ const GridItems: GridItemInterface[] = [
     title: "Make sure you visit again",
     color: "#1DA1F2",
     description:
-      "I designed and developed this site in two days, it is still in progress. Hence, make sure you visit again.",
+      "I designed this website while exploring NextJS. I hope you liked it. Make sure you visit again to check out new updates and projects that I'll be working on.",
       
   },
 ];
@@ -243,13 +210,13 @@ const GridItems: GridItemInterface[] = [
 
 
 export const siteConfig = {
-  creator: "Amaan Bhati",
+  creator: "Vaibhav Tiwari",
   title: "Web/Software Developer",
   
-  bio: "Aspiring software engineer with early experience in professional web development.  Also a tech enthusiast! hence, connect on socials if you wanna talk about potential opportunities, modern web dev frameworks, libraries and best practices or anything related to tech in general!",
+  bio: "Final-year Computer Science and Engineering student at Kalinga Institute of Industrial Technology, passionate about technology and problem-solving. Adept at combining technical expertise with strong communication and teamwork skills, honed through successful leadership initiatives throughout the college journey.",
   location: "Download Resume",
   
-  email: "amaanbhati.tech",
+  email: "vaibhav.tiw543@gmail.com",
   items: GridItems,
   
 } as const;
