@@ -38,7 +38,7 @@ const LeftPanel = () => {
         <div className="md-hidden">
           <div className="flex items-center gap-3 mt-6 lg-hidden">
             <a
-              href={`https://drive.google.com/file/d/1rJNGaVu30-4Ts_DVbnx1KaGtwu6f2WeH/view?usp=sharing`}
+              href={`https://drive.google.com/file/d/1xr0EsJviPXwrkO7fMUmXGH-5XaTUerTO/view`}
               className="flex items-center w-full gap-2 px-4 py-2 text-sm font-medium border rounded-md border-neutral-100 dark:border-neutral-800 "
             >
               {siteConfig.location}
