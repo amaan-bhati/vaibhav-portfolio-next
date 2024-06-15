@@ -48,7 +48,7 @@ const GridItems: GridItemInterface[] = [
     layout: "2x2",
     type: "social",
     title: "Portfolio Website",
-    username: "amaanbhati.tech",
+    username: "Vaibhav-Tiw",
     buttonLink: "Coming Soon",
     color: "#1DA1F2",
     description:
@@ -58,20 +58,18 @@ const GridItems: GridItemInterface[] = [
     layout: "2x2",
     type: "social",
     title: "Linkedin",
-    username: "@amaan-bhati",
+    username: "@Vaibhav-Tiw",
     description:
-      "CSE'25 || Coordinator at IoT Lab, KIIT ||",
+      "CSE'25 || Coordinator at IoT Lab, KIIT",
     color: "#1DA1F2",
     buttonLink: "https://www.linkedin.com/in/vaibhav-tiw/",
   },
- 
- 
   
   {
     layout: "1x2",
     type: "social",
     title: "Instagram",
-    username: "@amaanbhatiii",
+    username: "@Vaibhav_Tiw",
     color: "#1DA1F2",
     buttonLink: "https://instagram.com/vaibhav_tiw",
     // description: "Keeps me connected with family and friends while we share memes and reels only to waste time in the name of relaxing ourselves.",
@@ -80,7 +78,7 @@ const GridItems: GridItemInterface[] = [
     layout: "1x2",
     type: "social",
     title: "Twitter",
-    username: "@front_end_er",
+    username: "@Vaibhav_Tiw",
     buttonLink: "https://x.com/Vaibhav_Tiw",
     color: "#1DA1F2",
     // description:
@@ -88,14 +86,14 @@ const GridItems: GridItemInterface[] = [
   },
  
 
-  // {
-  //   layout: "1x2",
-  //   type: "social",
-  //   title: "Youtube",
-  //   username: "@amaan-bhati",
-  //   buttonLink: "https://youtu.be/xvFZjo5PgG0?si=oroLylgt6dbhY8WQ",
-  //   color: "#1DA1F2",
-  // },
+  {
+    layout: "1x2",
+    type: "social",
+    title: "LeetCode Profile",
+    username: "@Vaibhav_Tiw",
+    buttonLink: "https://leetcode.com/u/vaibhav_tiw/",
+    color: "#1DA1F2",
+  },
 
   {
     layout: "1x2",
@@ -191,10 +189,6 @@ const GridItems: GridItemInterface[] = [
       "I love to rant. Hence, I write blogs on various topics that I find interesting. Visit my blog to read my thoughts on various topics. Website is made using Wordpress.",
   },
 
-  
-  
-
-
  
   {
     layout: "2x2",
@@ -206,7 +200,6 @@ const GridItems: GridItemInterface[] = [
       
   },
 ];
-
 
 
 export const siteConfig = {
