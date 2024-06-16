@@ -98,11 +98,11 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "1x2",
     type: "social",
-    title: "Spotify work mode playlist",
-    buttonLink: " https://open.spotify.com/playlist/04DEjJ6oWgthgqYpFa9ULX?si=Vxw4f0-XRmCcuUpao1bNkQ&pi=EV3W6r_2RE6sW&nd=1&dlsi=65725a32417046df",
+    title: "Mail me",
+    buttonLink: "mailto:vaibhav.tiw543@gmail.com",
     color: "#1DA1F2",
     description:
-      "My very own Spotify playlist with a bunch of songs that I listen to while writing code to bring the best out of my productivity.  ",
+      "Any Suggestions or Queries? Feel free to mail me.",
   },
  
   {
@@ -160,7 +160,11 @@ const GridItems: GridItemInterface[] = [
         link: "https://github.com/VaibhavTiw",
       },
       {
-        title: "C++",
+        title: "C/C++",
+        link: "https://github.com/VaibhavTiw",
+      },
+      {
+        title: "Docker",
         link: "https://github.com/VaibhavTiw",
       },
     ],
@@ -174,7 +178,7 @@ const GridItems: GridItemInterface[] = [
     buttonLink: "https://github.com/VaibhavTiw",
     color: "#1DA1F2",
     description:
-      "Visit my github to view my projects accross multiple domains using various tech stacks. From basic to advanced, all at one place.",
+      "Visit my github to view my projects accross multiple domains. From basic to advanced, all at one place.",
       
   },
 
@@ -182,11 +186,11 @@ const GridItems: GridItemInterface[] = [
     layout: "2x2",
     type: "social",
     title: "Blog Website",
-    username: "https://randomscribblingsnet.wordpress.com/",
-    buttonLink: "Still in Dev Phase",
+    username: "@RandomScribblings",
+    buttonLink: "https://randomscribblingsnet.wordpress.com/",
     color: "#1DA1F2",
     description:
-      "I love to rant. Hence, I write blogs on various topics that I find interesting. Visit my blog to read my thoughts on various topics. Website is made using Wordpress.",
+      "I love to rant. Hence, I write blogs on various topics that I find interesting. Thus, here's the WordPress blog",
   },
 
  
@@ -196,7 +200,7 @@ const GridItems: GridItemInterface[] = [
     title: "Make sure you visit again",
     color: "#1DA1F2",
     description:
-      "I designed this website while exploring NextJS. I hope you liked it. Make sure you visit again to check out new updates and projects that I'll be working on.",
+      "I hope you liked it. Make sure you visit again to check out new updates and projects that I'll be working on.",
       
   },
 ];
@@ -204,7 +208,7 @@ const GridItems: GridItemInterface[] = [
 
 export const siteConfig = {
   creator: "Vaibhav Tiwari",
-  title: "Web/Software Developer",
+  title: "Software Developer",
   
   bio: "Final-year Computer Science and Engineering student at Kalinga Institute of Industrial Technology, passionate about technology and problem-solving. Adept at combining technical expertise with strong communication and teamwork skills, honed through successful leadership initiatives throughout the college journey.",
   location: "Download Resume",
